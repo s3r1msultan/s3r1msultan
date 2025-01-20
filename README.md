@@ -3,7 +3,7 @@
 I am Yersultan from Kazakhstan, a passionate programmer and cybersecurity enthusiast.
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/s3r1msultan?theme=dark&font=Noto%20Sans%20Thaana&ext=activity)](https://leetcode.com/s3r1msultan)
-![snake animation](https://github.com/s3r1msultan/s3r1msultan/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🌐 Social Links:
 
