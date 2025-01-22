@@ -17,6 +17,9 @@ I am Yersultan from Kazakhstan, a passionate programmer and cybersecurity enthus
 
 ![HTML5 Icon](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Icon](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SASS Icon](https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff) ![React Icon](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NextJS Icon](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux Icon](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
+- 💻 **Eurasia Group**, a markup of Eurasia Group company's site made on NextJS and TypeScript
+- ⚡️ **Alatau City**, a NextJS markup of Alatau City project's site
+
 ## 🛠 Backend
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](#)
