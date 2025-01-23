@@ -1,7 +1,7 @@
 
 # Hi, there! 👋
 
-I am Yersultan from Kazakhstan, a passionate programmer and cybersecurity enthusiast.
+I am from Kazakhstan, a passionate programmer and cybersecurity enthusiast.
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/s3r1msultan?theme=dark&font=Noto%20Sans%20Thaana&ext=activity)](https://leetcode.com/s3r1msultan)
 
