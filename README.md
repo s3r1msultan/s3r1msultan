@@ -1,7 +1,7 @@
 
 # Hi, there! 👋
 
-I am from Kazakhstan, a passionate programmer and cybersecurity enthusiast.
+I am a passionate programmer and cybersecurity enthusiast from Kazakhstan.
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/s3r1msultan?theme=dark&font=Noto%20Sans%20Thaana&ext=activity)](https://leetcode.com/s3r1msultan)
 
