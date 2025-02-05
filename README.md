@@ -7,7 +7,7 @@ I am a passionate programmer and cybersecurity enthusiast from Kazakhstan.
 
 ## 🌐 Social Links:
 
-[![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![My Own Website Icon](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s3r1msultan) [![s3r1msultan Website Icon](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://s3r1msultan.com)
 
 ## 💻 Programming Languages
 
@@ -24,12 +24,14 @@ I am a passionate programmer and cybersecurity enthusiast from Kazakhstan.
 
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](#)
 
+- 🚀 **URL Shortener**, a blazingly fast URL shortener using Rust which provides such features as custom aliases and expiration time
+
 ## 📱 Mobile Development
 
-![Kali Linux Icon](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kali Linux Icon](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kali Linux Icon](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kali Linux Icon](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Icon](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS Icon](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Dart Icon](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter Icon](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 - 🌟 **ZangerAI**, a mobile app that helps to deal with **legal questions** more easier based on newest documents
 
