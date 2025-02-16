@@ -3,6 +3,7 @@
 
 I am a passionate programmer and cybersecurity enthusiast from Kazakhstan.
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/s3r1msultan?theme=dark&font=Noto%20Sans%20Thaana&ext=activity)](https://leetcode.com/s3r1msultan)
 
 ## 🌐 Social Links:
 
@@ -46,7 +47,3 @@ I am a passionate programmer and cybersecurity enthusiast from Kazakhstan.
 Feel free to connect and explore my work. Let's create something amazing together!
 
 ![Snake animation](https://github.com/s3r1msultan/s3r1msultan/blob/output/github-contribution-grid-snake-dark.svg)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/s3r1msultan?theme=dark&font=Noto%20Sans%20Thaana&ext=activity)](https://leetcode.com/s3r1msultan)
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=s3r1msultan)
