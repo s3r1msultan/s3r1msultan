@@ -46,4 +46,4 @@ I am a passionate programmer and cybersecurity enthusiast from Kazakhstan.
 
 Feel free to connect and explore my work. Let's create something amazing together!
 
-![Snake animation](https://github.com/s3r1msultan/s3r1msultan/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/s3r1msultan/s3r1msultan/blob/output/github-contribution-grid-snake.svg)
